@@ -1,0 +1,6 @@
+{
+  "name": "Juris Mind",
+  "description": "Consultor jurídico premium com sistema inteligênte em tempo real para triagem e processamento técnico de viabilidade.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
